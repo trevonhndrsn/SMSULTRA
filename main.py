@@ -5,9 +5,9 @@ from twilio.http.http_client import TwilioHttpClient
 
 OWM_Endpoint = "https://api.openweathermap.org/data/3.0/onecall"
 
-api_key = "947655688b1b2a4671fd876b28e2d452"
-account_sid = "ACcf4ac1aacd9aa16536ea9cd5153751f3"
-auth_token = "4514cb5a9b5cc19b946cc3ea99d15e69"
+api_key = ""
+account_sid = ""
+auth_token = ""
 
 weather_params = {
     "lat": 38.907192,
